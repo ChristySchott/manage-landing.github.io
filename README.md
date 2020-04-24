@@ -1,5 +1,7 @@
 # Frontend Mentor - Manage landing page
 
+Para acessar o site basta clicar [aqui](https://christyschott.github.io/manage-landing.github.io/)
+
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
